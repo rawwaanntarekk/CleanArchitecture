@@ -1,8 +1,6 @@
-﻿using System.ComponentModel.DataAnnotations;
-using CleanArchitecture.Application.Books.Commands;
+﻿using CleanArchitecture.Application.Books.Commands;
 using CleanArchitecture.Application.Books.Validators;
 using FluentValidation.TestHelper;
-using Shouldly;
 using Xunit;
 
 namespace CleanArchitecture.Application.UnitTests.Common.Commands;
